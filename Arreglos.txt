@@ -1,0 +1,12 @@
+Inicio -> Asistencia.
+Docente (Dropdown) -> Añadir y su horario, editar y eliminar.
+Administrador (Dropdown) -> Añadir, eliminar.
+Auditoria -> Entradas y salidas de los docentes
+Cuenta (Dropdown) -> Lo que ya tengo.
+
+Colores de la aplicación:
+Color primario: #0B3C5D;
+Color secundario: #328CC1;
+Color peligro: #B82601;
+
+Sweet Alert.

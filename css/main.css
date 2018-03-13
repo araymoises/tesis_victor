@@ -1,0 +1,57 @@
+.color-access{
+  width: 60px;
+  height: 20px;
+}
+
+#green{
+  background-color: #00e600;
+}
+
+#blue{
+  background-color: #1a75ff;
+}
+
+#red{
+  background-color: #ff0000;
+}
+
+#yellow{
+  background-color: #ffff00;
+}
+
+#orange{
+  background-color: #ffb100;
+}
+
+.color-container{
+  margin-bottom: 60px;
+  opacity: .2;
+}
+
+.color-container :first-child{
+  display: inline-block;
+}
+
+.color-container :last-child{
+  font: 1.5em "Open Sans", sans-serif;
+}
+
+.logo-picture {
+  text-align: center;
+  height: 100px;
+}
+
+.logo-picture img {
+  max-height: 100%;
+  width: auto;
+  max-width: 100%;
+}
+
+
+.color-container-painted{
+  opacity: 1 !important;
+}
+
+.color-container-non-painted{
+  opacity: .2 !important;
+}
